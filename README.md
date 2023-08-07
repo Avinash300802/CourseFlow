@@ -2,7 +2,7 @@
 <li>A full stack online course management system project using React.js,Java springboot, REST API</li>
 <li>Utilized the postman framework for testing and validating API endpoints</li>
 
-<marquee><h1><i>CourseFlow - Sneak Peek</i> </h1></marquee>
+<h1><i>CourseFlow - Sneak Peek</i> </h1>
 
 <h2>Home Page </h2><br>
 <img src="https://github.com/Avinash300802/CourseFlow/blob/main/home%20page.png">
