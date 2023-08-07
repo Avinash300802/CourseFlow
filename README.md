@@ -1,7 +1,8 @@
 <h1>CourseFlow</h1>
+<li>A full stack online course management system project using React.js,Java springboot, REST API</li>
+<li>Utilized the postman framework for testing and validating API endpoints</li>
 
-
-<h1>CourseFlow - Sneek Peek </h1>
+<h1><i>CourseFlow - Sneak Peek</i> </h1>
 
 <h2> </h2><br>
 <img src="https://github.com/Avinash300802/CourseFlow/blob/main/home%20page.png">
