@@ -1,7 +1,7 @@
 <h1>CourseFlow</h1>
 <li>A full stack online course management system project using React.js,Java springboot, REST API</li>
 <li>Utilized the postman framework for testing and validating API endpoints</li>
-<li> This repo is for <h3>backend source-code </h3></li>
+<li> This repo is for <b>backend source-code </b></li>
 <li><a href="https://github.com/Avinash300802/front_courseflow">front-end source code<a></li>
 
 <h1><i>CourseFlow - Sneak Peek</i> </h1>
